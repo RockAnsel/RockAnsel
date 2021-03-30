@@ -4,6 +4,10 @@
 
 <img align='right' src="https://profile-counter.glitch.me/rockansel/count.svg" alt="访客数量"/>
 
+我是RockAnsel, 一名计算机视觉算法工程师，于香港中文大学获得工学硕士学位，专业信息工程，于南昌大学获得学士学位。
+将在此分享个人的一些代码和项目。
+
+
 - 😄**计算机视觉** 语义分割，实例分割，视频分割，GAN，医疗图像 
 - 😝**框架** PyTorch, TensorFlow, ONNX, TNN, NCNN 
 - 😆**编程语言** Python, Java, C++

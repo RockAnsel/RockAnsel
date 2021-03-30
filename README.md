@@ -1,5 +1,15 @@
-### Hi there 👋
+<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<p align="center">
+</p>
 
+<img align='right' src="https://profile-counter.glitch.me/rockansel/count.svg" alt="访客数量"/>
+
+- 😄**后端** C，C++，Java，Python
+- 😃**前端** HTML，CSS，JavaScript
+- 😆**数据库** MySQL
+- 😝**框架** SpringBoot，Django
+- 😛**设计** Photoshop，Audition，Premiere，DaVinci
+- 😧**都不精通**
 <!--
 **RockAnsel/RockAnsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

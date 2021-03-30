@@ -4,12 +4,12 @@
 
 <img align='right' src="https://profile-counter.glitch.me/rockansel/count.svg" alt="访客数量"/>
 
-- 😄**后端** C，C++，Java，Python
-- 😃**前端** HTML，CSS，JavaScript
-- 😆**数据库** MySQL
-- 😝**框架** SpringBoot，Django
-- 😛**设计** Photoshop，Audition，Premiere，DaVinci
-- 😧**都不精通**
+- 😄**计算机视觉** 语义分割，实例分割，视频分割，GAN，医疗图像 
+- 😝**框架** PyTorch, TensorFlow, ONNX, TNN, NCNN 
+- 😆**编程语言** Python, Java, C++
+- 😃**前端后端** Flask, Gunicorn, HTML，CSS，JavaScript
+- 😛**音乐软件** LogicProX，FinalCutProX  
+
 <!--
 **RockAnsel/RockAnsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

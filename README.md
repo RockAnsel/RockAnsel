@@ -9,7 +9,7 @@
 
 
 - 😄**计算机视觉** 语义分割，实例分割，视频分割，GAN，医疗图像 
-- 😝**框架** PyTorch, TensorFlow, ONNX, TNN, NCNN 
+- 😝**框架** PyTorch, TensorFlow, Paddle, ONNX, TNN, NCNN 
 - 😆**编程语言** Python, Java, C++
 - 😃**前端后端** Flask, Gunicorn, HTML，CSS，JavaScript
 - 😛**音乐软件** LogicProX，FinalCutProX  

@@ -15,8 +15,11 @@
 - 😛**音乐软件** LogicProX，FinalCutProX  
 
 
+
 Publications: 
-[Pyramid Network with Online Hard Example Mining for Accurate Left Atrium Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-12029-0_26)
+
+[左心房分割比赛Workshop论文 Pyramid Network with Online Hard Example Mining for Accurate Left Atrium Segmentation](https://github.com/RockAnsel/Left_Atrium_Segmentation)
+
 
 <!--
 **RockAnsel/RockAnsel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

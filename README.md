@@ -14,9 +14,10 @@
 - 😃**前端后端** Flask, Gunicorn, HTML，CSS，JavaScript
 - 😛**音乐软件** LogicProX，FinalCutProX  
 
+#### 个人项目
+[古籍图片清理研究项目 Clean Chinese Rare Book Images with GAN](https://github.com/RockAnsel/Clean-Chinese-Rare-Book-Images-with-GAN)
 
-
-Publications: 
+#### Publications
 
 [左心房分割比赛Workshop论文 Pyramid Network with Online Hard Example Mining for Accurate Left Atrium Segmentation](https://github.com/RockAnsel/Left_Atrium_Segmentation)
 

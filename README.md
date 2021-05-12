@@ -15,7 +15,7 @@
 - 😛**音乐软件** LogicProX，FinalCutProX  
 
 #### 个人项目
-[古籍图片清理研究项目 Clean Chinese Rare Book Images with GAN](https://github.com/RockAnsel/Clean-Chinese-Rare-Book-Images-with-GAN)
+[古籍图片清理研究项目 Clean Chinese Rare Book Images with GAN](https://github.com/RockAnsel/Clean-Chinese-Rare-Book-Images-with-GAN/blob/main/README.md)
 
 #### Publications
 
